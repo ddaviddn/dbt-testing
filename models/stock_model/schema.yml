@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+    - name: stock_analysis_aft_2015
+      description: "A starter dbt model"
+
+    - name: stock_history_aft_2015
+      description: "A starter dbt model"
+
