@@ -17,5 +17,4 @@ clean-targets:
     - "logs"
 
 models:
-  stock_model:
-      materialized: table
+    materialized: table
